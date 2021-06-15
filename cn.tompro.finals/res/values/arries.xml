@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="department">
+        <item>人事部</item>
+        <item>市场部</item>
+        <item>财力部</item>
+        <item>文艺部</item>
+    </string-array>
+</resources>
